@@ -1,6 +1,6 @@
 #soleil
 
-Soleil et l'étoile de la Terre.
+Soleil est l'étoile de la Terre.
 
 ![Icone du Soleil](soleil.png)
 
